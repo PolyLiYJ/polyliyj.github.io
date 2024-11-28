@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Physical-World Optical Adversarial Attacks on 3D Face Recognition"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-01-01-physical-world-optical-adversarial-attacks-on-3d-face-recognition
+excerpt: 'This paper addresses the challenges in real-world 3D face recognition by proposing a novel structured-light attack.'
+date: 2023-07-01
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2023/html/Li_Physical-World_Optical_Adversarial_Attacks_on_3D_Face_Recognition_CVPR_2023_paper.html'
+citation: 'Yanjie Li, Yiquan Li, Xuelong Dai, Songtao Guo, Bin Xiao. (2023). "Physical-World Optical Adversarial Attacks on 3D Face Recognition." <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 24699-24708.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
