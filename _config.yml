@@ -26,7 +26,8 @@ author:
   pronouns         : "his/he"
   bio              : "Where there is great love, there are always miracles."
   location         : "Hong Kong"
-  employer         : "[Hong Kong Polytechnic University](http://www.polyu.edu.hk)"
+  employer         : "Hong Kong Polytechnic University"
+  university_url   : "http://www.polyu.edu.hk"
   uri              : https://polyliyj.github.io
   email            : "yanjie.li@connect.polyu.hk" 
 
