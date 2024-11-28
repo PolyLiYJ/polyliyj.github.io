@@ -26,7 +26,7 @@ author:
   pronouns         : "his/he"
   bio              : "Where there is great love, there are always miracles."
   location         : "Hong Kong"
-  employer         : "Hong Kong Polytechnic University"
+  employer         : "[Hong Kong Polytechnic University](http://www.polyu.edu.hk)"
   uri              : https://polyliyj.github.io
   email            : "yanjie.li@connect.polyu.hk" 
 
@@ -36,7 +36,7 @@ author:
   # impactstory      : # URL
   # orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8859-8331"
   # semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
   # scopus           : # URL
 
