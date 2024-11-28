@@ -2,7 +2,7 @@
 title: "Physical-World Optical Adversarial Attacks on 3D Face Recognition"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-physical-world-optical-adversarial-attacks-on-3d-face-recognition
+permalink: /publication/2023-07-01-physical-world-optical-adversarial-attacks-on-3d-face-recognition
 excerpt: 'This paper addresses the challenges in real-world 3D face recognition by proposing a novel structured-light attack.'
 date: 2023-07-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
