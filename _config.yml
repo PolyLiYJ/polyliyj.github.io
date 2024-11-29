@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yanjie Li (Peter)"
-  pronouns         : "his/he"
+  pronouns         : "He/His"
   bio              : "Where there is great love, there are always miracles."
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
@@ -35,7 +35,7 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=h3Chje4AAAAJ"
   # impactstory      : # URL
-  # orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8859-8331"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8859-8331"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
