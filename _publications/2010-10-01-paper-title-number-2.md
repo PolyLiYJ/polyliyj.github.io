@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "A survey of robustness and safety of 2d and 3d deep learning models against adversarial attacks"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: journals
+permalink: /publication/A-survey-of-2D-3D-robustness-and-safety 
+excerpt: 'This paper addresses the challenges in real-world 3D face recognition by proposing a novel structured-light attack.'
+date: 2024-01-22
+venue: 'ACM Computing Surveys'
+paperurl: 'https://dl.acm.org/doi/full/10.1145/3636551'
+citation: 'Yanjie Li, Bin Xie, Songtao Guo, Yuanyuan Yang, and Bin Xiao. 2024. A Survey of Robustness and Safety of 2D and 3D Deep Learning Models against Adversarial Attacks. ACM Comput. Surv. 56, 6, Article 138 (June 2024), 37 pages. https://doi.org/10.1145/3636551'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Benefiting from the rapid development of deep learning, 2D and 3D computer vision applications are deployed in many safe-critical systems, such as autopilot and identity authentication. However, deep learning models are not trustworthy enough because of their limited robustness against adversarial attacks. The physically realizable adversarial attacks further pose fatal threats to the application and human safety. Lots of papers have emerged to investigate the robustness and safety of deep learning models against adversarial attacks. To lead to trustworthy AI, we first construct a general threat model from different perspectives and then comprehensively review the latest progress of both 2D and 3D adversarial attacks. We extend the concept of adversarial examples beyond imperceptive perturbations and collate over 170 papers to give an overview of deep learning model robustness against various adversarial attacks...
