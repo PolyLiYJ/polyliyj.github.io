@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Hong Kong Polytechnic University, Hong Kong, China, 2025 (expected)
+* Ph.D in Computer Science, Hong Kong Polytechnic University, Hong Kong, 2025 (expected)
 * M.S. in Control Science and Engineering, Zhejiang University, Hangzhou, China 2021
-* B.S. in Automation, Central South University, Changsha, China, 2012
+* B.S. in Automation, Central South University, Changsha, China, 2018
 
 Publications
 ======
