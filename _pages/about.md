@@ -149,7 +149,7 @@ redirect_from:
     <div class="section-head"><h2 data-lang="en">Say hello</h2><h2 data-lang="zh">欢迎联系</h2><p class="kicker" data-lang="en">Research chats welcome</p><p class="kicker" data-lang="zh">欢迎学术交流</p></div>
     <div class="contact">
       <p data-lang="en">Interested in agent security, robustness, or a careful debate about whether a model should trust that suspicious screenshot? I’m happy to talk.</p><p data-lang="zh">如果你也关注智能体安全、鲁棒性，或者想认真讨论模型该不该相信那张可疑截图，欢迎来聊。</p>
-      <div class="contact-links"><a href="mailto:yanjie.li@connect.polyu.hk">Email</a><a href="https://scholar.google.com/citations?hl=en&amp;user=h3Chje4AAAAJ">Google Scholar</a><a href="https://orcid.org/0000-0001-8859-8331">ORCID</a><span data-lang="en">Phone: +852 5308 0818 · +86 176 8871 9572</span><span data-lang="zh">电话：+852 5308 0818 · +86 176 8871 9572</span><span data-lang="en">WeChat: PetterLeeee</span><span data-lang="zh">微信：PetterLeeee</span></div>
+      <div class="contact-links"><a href="mailto:yanjie.li@connect.polyu.hk">Email</a><a href="https://scholar.google.com/citations?hl=en&amp;user=h3Chje4AAAAJ">Google Scholar</a><a href="https://orcid.org/0000-0001-8859-8331">ORCID</a></div>
     </div>
   </section>
   <p class="foot" data-lang="en">Built for curious people and cautious agents.</p><p class="foot" data-lang="zh">献给好奇的人，也献给懂得谨慎的智能体。</p>
