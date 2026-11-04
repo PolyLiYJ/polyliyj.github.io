@@ -10,8 +10,8 @@ redirect_from:
 <style>
 .home-duo{--ink:#172b4d;--muted:#52647d;--blue:#2763a5;--cyan:#83d7df;--coral:#fa846f;--line:#dce5ee;color:var(--ink);max-width:100%}
 .home-duo *{box-sizing:border-box}
-.home-duo [data-lang]{display:none}
-.home-duo[data-current-lang=en] [data-lang=en],.home-duo[data-current-lang=zh] [data-lang=zh]{display:block}
+.home-duo [data-lang]{display:none!important}
+.home-duo[data-current-lang=en] [data-lang=en],.home-duo[data-current-lang=zh] [data-lang=zh]{display:block!important}
 .home-duo .topline{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin:0 0 1rem;color:var(--muted);font-size:.76rem;letter-spacing:.08em;text-transform:uppercase}
 .home-duo .switch{display:inline-flex;gap:.2rem;padding:.22rem;border:1px solid var(--line);border-radius:99px;background:#fff;letter-spacing:0;text-transform:none}
 .home-duo .switch button{border:0;border-radius:99px;padding:.38rem .7rem;color:var(--muted);background:transparent;cursor:pointer;font:inherit;font-weight:750}
