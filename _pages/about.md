@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanjie Li | AI Security Researcher / 人工智能安全研究者"
+title: "Yanjie Li 厉彦杰 | AI Security Researcher / 人工智能安全研究者"
 author_profile: true
 redirect_from:
   - /about/
@@ -72,7 +72,7 @@ redirect_from:
   <header class="hero">
     <div>
       <p class="eyebrow" data-lang="en">AI security · research · the real world</p><p class="eyebrow" data-lang="zh">人工智能安全 · 学术研究 · 真实世界</p>
-      <h1>Yanjie Li</h1>
+      <h1>Yanjie Li <span style="font-size:.62em;letter-spacing:0;color:#52647d">厉彦杰</span></h1>
       <div class="role" data-lang="en">AI Security Researcher</div><div class="role" data-lang="zh">人工智能安全研究者</div>
       <p class="intro" data-lang="en">I am a Postdoctoral Fellow at The Hong Kong Polytechnic University. I study LLM agent security, multimodal robustness, and adversarial attacks that leave the screen and meet the physical world.</p>
       <p class="intro" data-lang="zh">我现任香港理工大学博士后，研究大语言模型智能体安全、多模态鲁棒性，以及从屏幕走进现实世界的对抗攻击。</p>
