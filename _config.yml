@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "AI Security Researcher"
+title                    : "AI Security Researcher | 人工智能安全"
 title_separator          : "-"
 name                     : &name "Yanjie Li"
-description              : &description "AI Security Researcher | LLM Agent Security | Adversarial Robustness"
+description              : &description "AI Security Researcher / 人工智能安全研究者 · LLM Agent Security / 智能体安全"
 url                      : https://polyliyj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PolyLiYJ/polyliyj.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yanjie Li (Peter)"
   pronouns         : "He/His"
-  bio              : "AI Security Researcher | LLM Agent Security | Adversarial Robustness"
+  bio              : "AI security · LLM agents · robustness | 人工智能安全 · 智能体 · 鲁棒性"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
   university_url   : "http://www.polyu.edu.hk"
