@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PhD student"
+title                    : "AI Security Researcher"
 title_separator          : "-"
 name                     : &name "Yanjie Li"
-description              : &description "Where there is great love, there are always miracles"
+description              : &description "AI Security Researcher | LLM Agent Security | Adversarial Robustness"
 url                      : https://polyliyj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PolyLiYJ/polyliyj.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yanjie Li (Peter)"
   pronouns         : "He/His"
-  bio              : "Where there is great love, there are always miracles."
+  bio              : "AI Security Researcher | LLM Agent Security | Adversarial Robustness"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
   university_url   : "http://www.polyu.edu.hk"
@@ -35,7 +35,7 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=h3Chje4AAAAJ"
   # impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8859-8331"
+  orcid            : "https://orcid.org/0000-0001-8859-8331"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
